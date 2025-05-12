@@ -1,0 +1,40 @@
+{
+  "hosts": [
+    {
+      "category": "创纪云",
+      "isGroup": true,
+      "children": [],
+      "id": "60bdca82-a69b-4099-ad6a-36ed5bfed656",
+      "lastUpdated": "2025-05-12T02:24:34.421Z"
+    },
+    {
+      "id": "02464824-ee3e-40c3-91b3-1bf9fe55ad73",
+      "category": "孩子王",
+      "lastUpdated": "2025-05-12T02:38:39.696Z",
+      "isGroup": true,
+      "children": [
+        {
+          "id": "b80c10da-3ccb-40bf-830e-71b4ba7adadd",
+          "hostContent": "#加盟 测试 host\n172.172.178.9 test.hzwjx.cn\n172.172.178.9 hzwjx.cn\n# 172.172.178.9 test.hzwjxweb.cn\n172.172.178.93  www.hzwjx.cn\n172.172.178.10  st.haiziwang.com\n172.172.178.9 test.verifycode.haiziwang.com\n\n127.0.0.1 dev.hzwjx.cn\n172.172.178.93  cms.cekid.com\n172.172.178.93  msgbox.cekid.com\n\n172.172.178.9\ttest.site.haiziwang.com\n\n#加盟-B端\n172.172.178.9 test.hzwjx.cn\n\n# 游乐卡测试\n172.172.178.9 test.ptms.haiziwang.com",
+          "title": "加盟-虚拟订单",
+          "category": "孩子王",
+          "type": "frontend",
+          "description": "虚拟订单1",
+          "lastUpdated": "2025-05-12T04:22:47.280Z",
+          "isComment": false
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "孩子王",
+    "创纪云"
+  ],
+  "types": [
+    "frontend",
+    "backend",
+    "database",
+    "cache",
+    "other"
+  ]
+}
